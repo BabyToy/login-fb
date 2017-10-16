@@ -1,0 +1,22 @@
+{
+  "name": "login-fb",
+  "version": "0.0.0",
+  "description": "login-fb",
+  "main": "app.js",
+  "author": {
+    "name": "MXL02"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.133.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.2.0",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
